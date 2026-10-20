@@ -1,0 +1,13 @@
+# MCP backups
+.mcp-backups/
+
+# Save data
+save/
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
